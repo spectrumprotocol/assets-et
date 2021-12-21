@@ -3001,6 +3001,33 @@
         "PancakeSwap"
       ]
     },
+    "terra1hhpgcp2stvzx952zfxtxg4dhgf60yfzchesj3e": {
+      "id": "ANGEL_PROTOCOL_HALOSWAP_PAIR",
+      "name": "Angel Protocol HaloSwap Pair",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1lzdqv40fd8am5ac5tr9kvrmplqywmrgh4dslvk": {
+      "id": "ANGEL_PROTOCOL_GOVERNANCE",
+      "name": "Angel Protocol Governance",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1ya34r8qj0fttkrxx435zexshyqe5fe3vlmhnd6": {
+      "id": "ANGEL_PROTOCOL_DISTRIBUTION",
+      "name": "Angel Protocol Distribution",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
     "terra1nwk2y5nfa5sxx6gtxr84lre3zpnn7cad2f266h": {
       "id": "ANGEL_PROTOCOL_REGISTRAR",
       "name": "Angel Protocol Registrar",
@@ -3380,6 +3407,42 @@
         "Stader"
       ]
     },
+    "terra1xacqx447msqp46qmv8k2sq6v5jh9fdj37az898": {
+      "id": "STADER_LIQUID_STAKING",
+      "name": "Liquid Staking",
+      "protocol": "Stader",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/STADER.jpeg",
+      "tags": [
+        "Stader"
+      ]
+    },
+    "terra1uayfvx2zkf23tfz2l6s6q7vvt96jsymyd26phd": {
+      "id": "STADER_MANAGER",
+      "name": "Manager",
+      "protocol": "Stader",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/STADER.jpeg",
+      "tags": [
+        "Stader"
+      ]
+    },
+    "terra1t9ree3ftvgr70fvm6y67zsqxjms8jju8kwcsdu": {
+      "id": "STADER_DELEGATOR",
+      "name": "Delegator",
+      "protocol": "Stader",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/STADER.jpeg",
+      "tags": [
+        "Stader"
+      ]
+    },
+    "terra1dvpafadh3wdn3dfv6njhhfa6ew99fyqq54k9c4": {
+      "id": "STADER_AIRDROP",
+      "name": "Airdrop",
+      "protocol": "Stader",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/STADER.jpeg",
+      "tags": [
+        "Stader"
+      ]
+    },
     "terra135mjmscm37mp5tu5ghp00lp374fsjaqksmjfh8": {
       "id": "ORION_STAKING",
       "name": "Orion Staking",
@@ -3400,7 +3463,35 @@
     },
     "terra1s9r689h3795v6wzjwul35q9zcfkf8m6k0a6ule": {
       "id": "APOLLO_VESTING",
-      "name": "Apollo Vesting",
+      "name": "Vesting",
+      "protocol": "Apollo",
+      "icon": "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      "tags": [
+        "Apollo"
+      ]
+    },
+    "terra1m8pz4se82hggvdfpr5arxf5uy5x3hg9zwsavxc": {
+      "id": "APOLLO_ORACLE",
+      "name": "Oracle",
+      "protocol": "Apollo",
+      "icon": "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      "tags": [
+        "Apollo"
+      ]
+    },
+    "terra1leadedadm2fguezmd4e445h6fe337yzq8n2dxf": {
+      "id": "APOLLO_ANGEL_CFE",
+      "name": "Angel CFE",
+      "protocol": "Apollo",
+      "icon": "https://finder.extraterrestrial.money/images/ANGEL60.png",
+      "tags": [
+        "Apollo",
+        "Angel"
+      ]
+    },
+    "terra1878h54yx347vxnlx8e0la9ngdnqu4uw9u2ppma": {
+      "id": "APOLLO_CFE",
+      "name": "CFE",
       "protocol": "Apollo",
       "icon": "https://finder.extraterrestrial.money/images/APOLLO60.png",
       "tags": [
@@ -3456,6 +3547,15 @@
     "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu": {
       "id": "PLAYNITY_PLY_TOKEN",
       "name": "PlayNity PLY Token",
+      "protocol": "PlayNity",
+      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
+      "tags": [
+        "PlayNity"
+      ]
+    },
+    "terra1fvq04l6pzslhxf7yyxhfmz5hv64xsye8vcmgzt": {
+      "id": "PLAYNITY_STAKING",
+      "name": "PlayNity Staking",
       "protocol": "PlayNity",
       "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
       "tags": [
@@ -3519,6 +3619,51 @@
         "Terraswap",
         "whitewhale",
         "whitelist"
+      ]
+    },
+    "terra1cnt2dls25u40wqyjgq72stuyjrwn0u5r6m5sm5": {
+      "id": "WHITEWHALE_TREASURY",
+      "name": "Treasury",
+      "protocol": "White Whale",
+      "icon": "https://finder.extraterrestrial.money/images/WHALE60.png",
+      "tags": [
+        "whitewhale"
+      ]
+    },
+    "terra1hstkss4m79c9p0m32wtspcwszzx9a07zrnrxrw": {
+      "id": "WHITEWHALE_MSG_FACTORY",
+      "name": "Message Factory",
+      "protocol": "White Whale",
+      "icon": "https://finder.extraterrestrial.money/images/WHALE60.png",
+      "tags": [
+        "whitewhale"
+      ]
+    },
+    "terra1vjws6sa429u48dlw8s6mycr62nalyhakxc4v7v": {
+      "id": "WHITEWHALE_GOVERNANCE",
+      "name": "Governance",
+      "protocol": "White Whale",
+      "icon": "https://finder.extraterrestrial.money/images/WHALE60.png",
+      "tags": [
+        "whitewhale"
+      ]
+    },
+    "terra1p7qkcttjge386almry8e5szmqpsl4u7dhjpt8s": {
+      "id": "WHITEWHALE_NFT_CARDS",
+      "name": "NFT Cards",
+      "protocol": "White Whale",
+      "icon": "https://finder.extraterrestrial.money/images/WHALE60.png",
+      "tags": [
+        "whitewhale"
+      ]
+    },
+    "terra1jsaghv4tsltlk4ka6u3pg0msccdz0xsz0vkhcg": {
+      "id": "RANGO_RANGO_TOKEN",
+      "name": "Rango Token",
+      "protocol": "Rango",
+      "icon": "https://finder.extraterrestrial.money/images/RANGO60.png",
+      "tags": [
+        "rango"
       ]
     }
   },
