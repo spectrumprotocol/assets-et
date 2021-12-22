@@ -3010,6 +3010,17 @@
         "Angel Protocol"
       ]
     },
+    "terra1yjg0tuhc6kzwz9jl8yqgxnf2ctwlfumnvscupp": {
+      "id": "LOOP_HALO-UST_PAIR",
+      "name": "HALO-UST Pair",
+      "protocol": "Loop",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "angel",
+        "loop",
+        "whitelist"
+      ]
+    },
     "terra1lzdqv40fd8am5ac5tr9kvrmplqywmrgh4dslvk": {
       "id": "ANGEL_PROTOCOL_GOVERNANCE",
       "name": "Angel Protocol Governance",
