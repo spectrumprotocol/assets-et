@@ -2459,6 +2459,16 @@
         "LOOP"
       ]
     },
+    "terra17pzt8t2hmx6587zn6yh5ensylm3s9mm4m72v2n": {
+      "id": "LOOP_HALO-UST_LP",
+      "name": "HALO-UST LP",
+      "protocol": "Loop",
+      "icon": "https://loop.markets/token/logo2.png",
+      "tags": [
+        "loop",
+        "angel"
+      ]
+    },
     "terra154jt8ppucvvakvqa5fyfjdflsu6v83j4ckjfq3": {
       "id": "LOOP_LOOP-LOOPR_PAIR",
       "name": "LOOP LOOP-LOOPR Pair",
