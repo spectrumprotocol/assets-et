@@ -3631,6 +3631,24 @@
         "Astroport"
       ]
     },
+    "terra1tvld5k6pus2yh7pcu7xuwyjedn7mjxfkkkjjap": {
+      "id": "ASTROPORT_BOOTSTRAP_AUCTION",
+      "name": "Bootstrap Auction",
+      "protocol": "Astroport",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1dpe2aqykm2vnakcz4vgpha0agxnlkjvgfahhk7": {
+      "id": "ASTROPORT_AIRDROP",
+      "name": "Airdrop",
+      "protocol": "Astroport",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "tags": [
+        "Astroport"
+      ]
+    },
     "terra1sz988qp6vma3j0xj5w7fsskqcuc8kjn0mmtcqc": {
       "id": "WHITEWHALE_BOOTSWAP",
       "name": "Bootswap",
