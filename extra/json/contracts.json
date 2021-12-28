@@ -3617,7 +3617,7 @@
       "id": "ASTROPORT_ASTRO_TOKEN",
       "name": "Astro Token",
       "protocol": "Astroport",
-      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
       "tags": [
         "Astroport"
       ]
@@ -3626,7 +3626,7 @@
       "id": "ASTROPORT_LOCKDROP",
       "name": "Lockdrop",
       "protocol": "Astroport",
-      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
       "tags": [
         "Astroport"
       ]
@@ -3635,7 +3635,7 @@
       "id": "ASTROPORT_BOOTSTRAP_AUCTION",
       "name": "Bootstrap Auction",
       "protocol": "Astroport",
-      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
       "tags": [
         "Astroport"
       ]
@@ -3644,7 +3644,25 @@
       "id": "ASTROPORT_AIRDROP",
       "name": "Airdrop",
       "protocol": "Astroport",
-      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1nq4aszdm82wujstxwpjxtvckg7ghu63mqkey33": {
+      "id": "ASTROPORT_STAKING",
+      "name": "Staking",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1fnywlw4edny3vw44x04xd67uzkdqluymgreu7g": {
+      "id": "ASTROPORT_FACTORY",
+      "name": "Factory",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
       "tags": [
         "Astroport"
       ]
@@ -3653,10 +3671,19 @@
       "id": "ASTROPORT_ASTRO-UST_PAIR",
       "name": "ASTRO-UST Pair",
       "protocol": "Astroport",
-      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
       "tags": [
         "Astroport",
         "whitelist"
+      ]
+    },
+    "terra1m6ywlgn6wrjuagcmmezzz2a029gtldhey5k552": {
+      "id": "ASTROPORT_LUNA-UST_PAIR",
+      "name": "LUNA-UST Pair",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
       ]
     },
     "terra1sz988qp6vma3j0xj5w7fsskqcuc8kjn0mmtcqc": {
