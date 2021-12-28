@@ -3649,6 +3649,16 @@
         "Astroport"
       ]
     },
+    "terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7": {
+      "id": "ASTROPORT_ASTRO-UST_PAIR",
+      "name": "ASTRO-UST Pair",
+      "protocol": "Astroport",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "tags": [
+        "Astroport",
+        "whitelist"
+      ]
+    },
     "terra1sz988qp6vma3j0xj5w7fsskqcuc8kjn0mmtcqc": {
       "id": "WHITEWHALE_BOOTSWAP",
       "name": "Bootswap",
