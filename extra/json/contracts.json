@@ -1906,14 +1906,12 @@
       ]
     },
     "terra1ntplrx9lq82ks7sykf8ka39dclz6k0460vqtkc": {
-      "id": "PYLON_CORE_DEPOSIT_TOKEN_VALKYRIE_ANCHORPOOL",
-      "name": "Deposit Token - Valkyrie AnchorPool",
+      "id": "PYLON_CORE_DEPOSIT_TOKEN_ANCHORPOOL",
+      "name": "Deposit Token - Pylon AnchorPool",
       "protocol": "Pylon",
-      "icon": "https://app.valkyrieprotocol.com/icon_vkr.png",
+      "icon": "https://assets.pylon.rocks/logo/MINE.png",
       "tags": [
-        "Pylon",
-        "Valkyrie",
-        "Anchor"
+        "Pylon"
       ]
     },
     "terra1xc9qryk2mcrk77g7yp7u8fq8y3nylkgsrrwntp": {
