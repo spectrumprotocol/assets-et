@@ -3613,7 +3613,16 @@
     },
     "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3": {
       "id": "ASTROPORT_ASTRO_TOKEN",
-      "name": "Astro Token",
+      "name": "ASTRO Token",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1cw7znqh9w5f2ryyskq76fmxhj9hdl06uv0j0cd": {
+      "id": "ASTROPORT_XASTRO_TOKEN",
+      "name": "xASTRO Token",
       "protocol": "Astroport",
       "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
       "tags": [
@@ -3665,6 +3674,15 @@
         "Astroport"
       ]
     },
+    "terra16t7dpwwgx9n3lq6l6te3753lsjqwhxwpday9zx": {
+      "id": "ASTROPORT_ROUTER",
+      "name": "Router",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
+      ]
+    },
     "terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7": {
       "id": "ASTROPORT_ASTRO-UST_PAIR",
       "name": "ASTRO-UST Pair",
@@ -3675,9 +3693,55 @@
         "whitelist"
       ]
     },
+    "terra17n5sunn88hpy965mzvt3079fqx3rttnplg779g": {
+      "id": "ASTROPORT_ASTRO-UST_LP",
+      "name": "ASTRO-UST LP",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport",
+        "whitelist"
+      ]
+    },
     "terra1m6ywlgn6wrjuagcmmezzz2a029gtldhey5k552": {
       "id": "ASTROPORT_LUNA-UST_PAIR",
       "name": "LUNA-UST Pair",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1j66jatn3k50hjtg2xemnjm8s7y8dws9xqa5y8w": {
+      "id": "ASTROPORT_BLUNA-LUNA_PAIR",
+      "name": "bLUNA-LUNA Pair",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1fh27l8h4s0tfx9ykqxq5efq4xx88f06x6clwmr": {
+      "id": "ASTROPORT_BUILDER_UNLOCK",
+      "name": "Builder Unlock",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra12u7hcmpltazmmnq0fvyl225usn3fy6qqlp05w0": {
+      "id": "ASTROPORT_MAKER",
+      "name": "Maker",
+      "protocol": "Astroport",
+      "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1rlusvz7h678g35dr5a3nzmzd2kzwh2evjpfuq8": {
+      "id": "ASTROPORT_GENERATOR_VESTING",
+      "name": "Generator Vesting",
       "protocol": "Astroport",
       "icon": "https://finder.extraterrestrial.money/images/SVG/ASTRO.svg",
       "tags": [
