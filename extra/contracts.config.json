@@ -1,7 +1,7 @@
 {
   "source": "../../cw20/contracts.js",
   "additions": "./cw20/contracts.csv",
-  "output": "./json/contracts.json",
+  "output": "./output/contracts.json",
   "add_identifiers": true,
   "headers": [
     "id",

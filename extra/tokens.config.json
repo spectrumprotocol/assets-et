@@ -1,7 +1,7 @@
 {
   "source": "../../cw20/tokens.js",
   "additions": "./cw20/tokens.csv",
-  "output": "./json/tokens.json",
+  "output": "./output/tokens.json",
   "add_identifiers": false,
   "headers": [
     "symbol",
