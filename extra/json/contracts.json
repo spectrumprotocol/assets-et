@@ -1144,6 +1144,18 @@
         "Spectrum"
       ]
     },
+    "terra1kr82wxlvg773vjay95epyckna9g4vppjyfxgd0": {
+      "protocol": "Spectrum",
+      "name": "SPEC bPsiDP-24m Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png",
+      "id": "SPECTRUM_SPEC_BPSIDP-24M_FARM"
+    },
+    "terra1gyqyhjppy3k77wltnmqt29ms340mmayk7ank4e": {
+      "protocol": "Spectrum",
+      "name": "SPEC Burn Vault",
+      "icon": "https://terra.spec.finance/assets/SPEC.png",
+      "id": "SPECTRUM_SPEC_BURN_VAULT"
+    },
     "terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5": {
       "protocol": "StarTerra",
       "name": "STT Staking Faction Lunatics",
@@ -1716,6 +1728,12 @@
       "icon": "https://assets.kujira.app/kuji.png",
       "id": "KUJIRA_TEAM_MULTISIGNATURE_WARCHEST"
     },
+    "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
+      "protocol": "Orne",
+      "name": "UST-ORNE Pair",
+      "icon": "https://orne.io/img/token_icon.png",
+      "id": "ORNE_UST-ORNE_PAIR"
+    },
     "terra1w7gtx76rs7x0e27l7x2e88vcr52tp9d8g4umjz": {
       "protocol": "Kujira",
       "name": "Governance Staking",
@@ -1728,11 +1746,113 @@
       "icon": "https://assets.kujira.app/kuji.png",
       "id": "KUJIRA_PLATFORM_FEE_LOCKBOX"
     },
-    "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
-      "protocol": "Orne",
-      "name": "UST-ORNE Pair",
-      "icon": "https://orne.io/img/token_icon.png",
-      "id": "ORNE_UST-ORNE_PAIR"
+    "terra1nzyzc80sk9y6k58frdt8ye4y2qjq8myz44kg2w": {
+      "protocol": "Kujira",
+      "name": "Airdrops",
+      "icon": "https://assets.kujira.app/kuji.png",
+      "id": "KUJIRA_AIRDROPS"
+    },
+    "terra1l0c5kmclu5zkd5jwud3pzmv2j86puchnssnxwf": {
+      "protocol": "Kujira",
+      "name": "Marketing",
+      "icon": "https://assets.kujira.app/kuji.png",
+      "id": "KUJIRA_MARKETING"
+    },
+    "terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6": {
+      "protocol": "Terraswap",
+      "name": "PLY-UST Pair",
+      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
+      "id": "TERRASWAP_PLY-UST_PAIR",
+      "tags": [
+        "Terraswap",
+        "PlayNity",
+        "whitelist"
+      ]
+    },
+    "terra1h69kvcmg8jnq7ph2r45k6md4afkl96ugg73amc": {
+      "protocol": "Terraswap",
+      "name": "PLY-UST LP",
+      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
+      "id": "TERRASWAP_PLY-UST_LP",
+      "tags": [
+        "Terraswap",
+        "PlayNity"
+      ]
+    },
+    "terra1gndu6x3j57znc3yec9t5kayahdr0a6dx4xtj29": {
+      "protocol": "PlayNity",
+      "name": "PLY StarTerra Public Sale Vesting",
+      "icon": "https://playnity.io/uploads/logo/logo100.png",
+      "id": "PLAYNITY_PLY_STARTERRA_PUBLIC_SALE_VESTING"
+    },
+    "terra1ur4ycdastenmq6v0ljn9d5zcp0ctcc59t6tjl4": {
+      "protocol": "PlayNity",
+      "name": "PLY Vesting",
+      "icon": "https://playnity.io/uploads/logo/logo100.png",
+      "id": "PLAYNITY_PLY_VESTING"
+    },
+    "terra1fvq04l6pzslhxf7yyxhfmz5hv64xsye8vcmgzt": {
+      "protocol": "PlayNity",
+      "name": "PlayNity Staking",
+      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
+      "id": "PLAYNITY_STAKING",
+      "tags": [
+        "PlayNity"
+      ]
+    },
+    "terra1hxyyjpu8548ccwth9pnc5ztgpupnn2a3c9s0f8": {
+      "protocol": "PlayNity",
+      "name": "PLY-UST Staking Locked 3M",
+      "icon": "https://playnity.io/uploads/logo/logo100.png",
+      "id": "PLAYNITY_PLY-UST_STAKING_LOCKED_3M"
+    },
+    "terra1auxjy8f8al78g9ecmv85agaynj8wkjp5kjce2p": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki UST-TFLOKI LP",
+      "icon": "https://terrafloki.io/terrafloki_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_UST-TFLOKI_LP"
+    },
+    "terra1jhvyfuewmhy6zafw6x7au0gcthyfcruf4lfm5z": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki UST-TFLOKI LP Staking",
+      "icon": "https://terrafloki.io/terrafloki_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_UST-TFLOKI_LP_STAKING"
+    },
+    "terra18q3zetn2rc8y9z6k5h6vvng28l2c0ekqgegzsn": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki Governance",
+      "icon": "https://terrafloki.io/terrafloki_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_GOVERNANCE"
+    },
+    "terra1awhv74w79sxtr3c65l53m0y46yttr6xaecmed2": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki TFLOKI Genesis Staking",
+      "icon": "https://terrafloki.io/ticket_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_TFLOKI_GENESIS_STAKING"
+    },
+    "terra1ucaza5zmmh9efhrrcv92uuh20vdj6ggg57se94": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki TFLOKI New World Staking",
+      "icon": "https://terrafloki.io/ticket2_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_TFLOKI_NEW_WORLD_STAKING"
+    },
+    "terra17mw6s5l03ecdslpfdgx6hn0hh9g5aj8sjg04n8": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki UST-TFLOKI LP New World Staking",
+      "icon": "https://terrafloki.io/ticket2_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_UST-TFLOKI_LP_NEW_WORLD_STAKING"
+    },
+    "terra1nr0tmlms7dw7mg2crwpey4nunwq3pfajr4gxa9": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki TFLOKI Aviator Staking",
+      "icon": "https://terrafloki.io/ticket3_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_TFLOKI_AVIATOR_STAKING"
+    },
+    "terra136dggkaa0pdws2pz6r0ffk5l5zg50j5f2cl3vj": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki UST-TFLOKI LP Aviator Staking",
+      "icon": "https://terrafloki.io/ticket3_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_UST-TFLOKI_LP_AVIATOR_STAKING"
     },
     "terra1vs9jr7pxuqwct3j29lez3pfetuu8xmq7tk3lzk": {
       "id": "TERRASWAP_ASSET_LIMIT_ORDER",
@@ -3581,36 +3701,6 @@
         "PlayNity"
       ]
     },
-    "terra1fvq04l6pzslhxf7yyxhfmz5hv64xsye8vcmgzt": {
-      "id": "PLAYNITY_STAKING",
-      "name": "PlayNity Staking",
-      "protocol": "PlayNity",
-      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
-      "tags": [
-        "PlayNity"
-      ]
-    },
-    "terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6": {
-      "id": "TERRASWAP_PLY-UST_PAIR",
-      "name": "PLY-UST Pair",
-      "protocol": "Terraswap",
-      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
-      "tags": [
-        "Terraswap",
-        "PlayNity",
-        "whitelist"
-      ]
-    },
-    "terra1h69kvcmg8jnq7ph2r45k6md4afkl96ugg73amc": {
-      "id": "TERRASWAP_PLY-UST_LP",
-      "name": "PLY-UST LP",
-      "protocol": "Terraswap",
-      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
-      "tags": [
-        "Terraswap",
-        "PlayNity"
-      ]
-    },
     "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3": {
       "id": "ASTROPORT_ASTRO_TOKEN",
       "name": "ASTRO Token",
@@ -4873,6 +4963,18 @@
         "Spectrum"
       ]
     },
+    "terra1h909lafatcmxeqzgw030xudx965j7ulud5fwmm": {
+      "protocol": "Spectrum",
+      "name": "SPEC bPsiDP-24m Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png",
+      "id": "SPECTRUM_SPEC_BPSIDP-24M_FARM"
+    },
+    "terra1l3g2yv5cqwdtrxeun4a76jkq45gwwm682usvs4": {
+      "protocol": "Spectrum",
+      "name": "SPEC Burn Vault",
+      "icon": "https://terra.spec.finance/assets/SPEC.png",
+      "id": "SPECTRUM_SPEC_BURN_VAULT"
+    },
     "terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz": {
       "protocol": "StarTerra",
       "name": "STT Staking Faction Lunatics",
@@ -5137,6 +5239,42 @@
       "name": "UST-KUJI Staking",
       "icon": "https://assets.kujira.app/kuji.png",
       "id": "KUJIRA_UST-KUJI_STAKING"
+    },
+    "terra1k03qhj74pmfdt6nq9p6wvw24t25plyalavfcc2": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki UST-TFLOKI LP",
+      "icon": "https://terrafloki.io/terrafloki_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_UST-TFLOKI_LP"
+    },
+    "terra1xxhfqy9fgnkucl4m94628qw52y078fwtegv830": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki UST-TFLOKI LP Staking",
+      "icon": "https://terrafloki.io/terrafloki_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_UST-TFLOKI_LP_STAKING"
+    },
+    "terra147kfuxaep6940f56qxujzas5rxvzra3dsz6ysx": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki Governance",
+      "icon": "https://terrafloki.io/terrafloki_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_GOVERNANCE"
+    },
+    "terra1ss6290u0xsg3sppyuzjmal0pquntlh5ccnmvs7": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki TFLOKI Genesis Staking",
+      "icon": "https://terrafloki.io/ticket_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_TFLOKI_GENESIS_STAKING"
+    },
+    "terra1p386cwda42q6hdzfhgdr0mvpva5jwstgp8lcpe": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki TFLOKI New World Staking",
+      "icon": "https://terrafloki.io/ticket2_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_TFLOKI_NEW_WORLD_STAKING"
+    },
+    "terra162mj8vpl64m3pjpah3pr828dvuhu55v95av9ac": {
+      "protocol": "TerraFloki",
+      "name": "TerraFloki UST-TFLOKI LP New World Staking",
+      "icon": "https://terrafloki.io/ticket2_logo.png",
+      "id": "TERRAFLOKI_TERRAFLOKI_UST-TFLOKI_LP_NEW_WORLD_STAKING"
     },
     "terra1n2xmlwqpp942nfqq2muxn0u0mqk3sylekdpqfv": {
       "id": "TERRASWAP_MINE-UST_PAIR",

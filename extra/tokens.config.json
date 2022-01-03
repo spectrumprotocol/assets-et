@@ -1,5 +1,5 @@
 {
-  "source": "../cw20/tokens.json",
+  "source": "../../cw20/tokens.js",
   "additions": "./cw20/tokens.csv",
   "output": "./json/tokens.json",
   "add_identifiers": false,

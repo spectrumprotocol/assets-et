@@ -26,12 +26,15 @@ function cleanTags(t) {
   return t.trim();
 }
 
+function readJSSource(file) {
+  return require(file);
+}
+
 try {
   // Read in the original data
   const sourceFile = config.source;
-  const raw = fs.readFileSync(sourceFile, 'utf8')
-  let data = JSON.parse(raw)
-
+  let data = readJSSource(sourceFile);
+  
   // Original data is split by network
   const mainnet = data.mainnet;
   const testnet = data.testnet;

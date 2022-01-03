@@ -1,5 +1,5 @@
 {
-  "source": "../cw20/contracts.json",
+  "source": "../../cw20/contracts.js",
   "additions": "./cw20/contracts.csv",
   "output": "./json/contracts.json",
   "add_identifiers": true,
