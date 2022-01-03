@@ -1,0 +1,32 @@
+{
+    "mainnet": {
+        "3": {
+            "name": "CW20 Token"
+        },
+        "4": {
+            "name": "Terraswap Pair"
+        },
+        "556": {
+            "name": "Wormhole Token"
+        },
+        "636": {
+            "name": "Angel Charity"
+        },
+        "921": {
+            "name": "Nexus Staking"
+        },
+        "986": {
+            "name": "Talis Factory"
+        },
+        "1063": {
+            "name": "Spaceloots"
+        },
+        "1084": {
+            "name": "Talis Factory"
+        },
+        "1099": {
+            "name": "NFT Collection"
+        }
+    },
+    "testnet": {}
+}
